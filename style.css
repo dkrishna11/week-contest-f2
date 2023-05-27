@@ -1,0 +1,45 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.main-container{
+    padding: 50px;
+    background-color: #1A1A1C;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 15px;
+}
+
+
+.container #search-inp, button{
+    border: 2px solid #8E8E8E;
+    background-color: #1A1A1C;
+    color: #FFFFFF;
+    margin: 15px;
+    border-radius: 7px;
+    padding: 10px;
+    text-align: center;
+}
+
+#search-inp{
+    width: 500px;
+}
+.Stock-Container td{
+    border-bottom: 1px solid #fff;
+    padding: 20px;
+    margin: 30px;
+}
+.Stock-Container img{
+    width: 5%;
+    padding: 5px;
+}
+
+.post{
+    color: green;
+}
+
+.negt{
+    color: red;
+}
